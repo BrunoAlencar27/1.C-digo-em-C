@@ -7,7 +7,7 @@ int main(){
     printf("Valor real:%f\n", 3.14263434);
     printf("Valor real com apenas duas casas decimais:%.2f\n",3.14263434);
     printf("Caractere:%c\n",'a');
-    printf("Cadeida de caracteres:%s\n","CADEIA");
+    printf("Cadeia de caracteres:%s\n","CADEIA");
 
     return 0;
 }
