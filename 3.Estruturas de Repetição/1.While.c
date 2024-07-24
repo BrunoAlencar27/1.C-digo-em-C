@@ -9,4 +9,5 @@ int main(){
                // mais 1 a variável soma.
     }
     printf("%d\n",soma);
+    return 0;
 }
