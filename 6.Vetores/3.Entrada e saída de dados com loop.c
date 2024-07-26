@@ -6,12 +6,13 @@ int vetor[5];
 int main(){
     //Entrada de dados
     for(int i=1;i<=5;i++){
-        printf("Digite o %d.o número: ",i);
+        printf("Digite o %dº número: ",i);
         scanf("%d",&vetor[i]);
     }
 
-    //Saídade de dados
-    printf("[");
+    //Saída de de dados
+    printf("\n");
+    printf("Números digitados:[");
     for(int i=1;i<=5;i++){
         if(i==5){
             printf("%d",vetor[i]);
@@ -19,6 +20,6 @@ int main(){
         printf("%d,",vetor[i]);
         }
     }
-    printf("]");
+    printf("]\n");
     return 0;
 }
