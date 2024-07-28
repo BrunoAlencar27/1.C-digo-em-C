@@ -3,9 +3,9 @@
 int test[5];
 
 int main(){
-    test[1]=1;//Atribuição simples
+    test[0]=1;//Atribuição simples
 
-    for(int i=2;i<=5;i++){
+    for(int i=1;i<=4;i++){
         scanf("%d",&test[i]);//atribuição com loop
     }
     return 0;

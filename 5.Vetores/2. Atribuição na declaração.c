@@ -6,7 +6,7 @@ int vetor[5]={1,20,300,12,-3}, soma;
 
 
 int main(){
-    for(int i=1;i<=5;i++){
+    for(int i=0;i<=4;i++){
         soma+=vetor[i];
     }
     printf("%d\n",soma);
