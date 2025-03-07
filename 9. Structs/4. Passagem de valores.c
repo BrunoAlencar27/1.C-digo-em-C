@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 
-//Declarção de uma struct
+//Definição de um tipo de dado "exemplo"
 struct Exemplo{
     char ex1;   //campo de variável do tipo caractere
     int ex2;    //campo de variável do tipo inteiro

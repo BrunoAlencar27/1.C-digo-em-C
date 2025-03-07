@@ -1,4 +1,4 @@
-//Algoritmo:Variáveis de uma struct
+//Algoritmo:Definição de um tipo de dado struct
 //Registro:DeVup
 
 #include <stdio.h>

@@ -1,9 +1,9 @@
-//Algoritmo: Instanciando uma struct
+//Algoritmo: Declarção de uma variável do tipo struct
 //Registro:DeVup
 
 #include <stdio.h>
 
-//Declarção de uma struct
+//Declarção de um tipo de dado "exemplo"
 struct exemplo{
     char ex1;   //campo de variável do tipo string
     int ex2;    //campo de variável do tipo inteiro
@@ -12,6 +12,6 @@ struct exemplo{
 };
 
 int main(){
-    struct exemplo exemplo1;//Instanciando uma variável exemplo1 do tipo struct exemplo
-    
+    //Declarçaõ de uma variável do tipo exemplo
+    struct exemplo exemplo1;
 }
